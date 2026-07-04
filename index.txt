@@ -1,0 +1,23 @@
+Old Cars Price Prediction:
+1. Price Prediction 
+2. Data Analysis
+3. Recomendation System
+4. Car compare
+
+Process:
+1. Web Scraping: Getting data from web.(3000+ rows)
+2. Data Cleaning
+3. EDA
+4. Feature Selection
+5. Models
+6. Streamlit Application
+
+Web Scraping Libraries: BS4,Request, Playwright
+Installing Playwright:
+python -m pip install playwright
+
+Upgrading pip:
+pip install --upgrade pip
+
+Installing Required browser from playwright:
+python -m playwright install
