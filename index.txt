@@ -5,7 +5,7 @@ Old Cars Price Prediction:
 4. Car compare
 
 Process:
-1. Web Scraping: Getting data from web.(3000+ rows)
+1. Web Scraping: Getting data from web.(3000+ rows) (Final Rows: 30000)
 2. Data Cleaning
 3. EDA
 4. Feature Selection
